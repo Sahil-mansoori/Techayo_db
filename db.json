@@ -1,0 +1,20 @@
+{
+    "RegistrationData": [
+        {
+          "name": "Shashank sharma",
+          "email": "mansoorisahil340@gmail.com",
+          "contact": "897898",
+          "gender": "male",
+          "password": "123",
+          "id": 1
+        },
+        {
+          "name": "Sahil Mansoora",
+          "email": "sahilmansoori@123gmail.com",
+          "contact": "8287257519",
+          "gender": "male",
+          "password": "0123",
+          "id": 2
+        }
+      ]
+}
